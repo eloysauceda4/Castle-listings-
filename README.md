@@ -1,8 +1,8 @@
-# Castle Mediaval Site
+# Castle Medieval Site
 
 ## Date: 4/14/2022
 ### By: Eloy Sauceda, Trevor Bond, David Wu
-#### ![GitHub]  (https://github.com/dwu621) | (https://github.com/rarebit3) | (https://github.com/eloysauceda4)
+#### [GitHub]  (https://github.com/dwu621) | (https://github.com/rarebit3) | (https://github.com/eloysauceda4)
 ***
 ### **Task**
 ####  Our task is to build a full-stack (Postresql/Express/React/Node), professional-looking application with a functioning backend and frontend. Our website should allow users to interact with its pages and inform them about varies of castles and regions in reference to the cost of each castle.
