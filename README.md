@@ -19,10 +19,11 @@
 ## 3. Trello
 ## 4. Wireframe
 ## 5. drawio
+<img src="/images/ERD.drawio.png" alt=""/>
 ***
 ### **Planning**
-## [drawio]()
-## [Trello]()
+## [drawio](https://drive.google.com/file/d/1orRhzvfxNVGH771ph7eNyIG-Punfhbrr/view?usp=sharing)
+## [Trello](https://trello.com/b/TtYXVxN5/castles)
 ## [wireframe]()
 ***
 ### ***Credits***
