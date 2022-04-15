@@ -19,6 +19,7 @@
 ## 3. Trello
 ## 4. Lucid
 <img src="/images/Castles in the Sky.png" alt=""/>
+
 ## 5. drawio
 <img src="/images/ERD.drawio.png" alt=""/>
 
@@ -26,7 +27,7 @@
 ### **Planning**
 ## [drawio](https://drive.google.com/file/d/1orRhzvfxNVGH771ph7eNyIG-Punfhbrr/view?usp=sharing)
 ## [Trello](https://trello.com/b/TtYXVxN5/castles)
-## [lucid](https://lucid.app/lucidchart/d580539d-fabb-4fbb-bf8e-6cc486119434/edit?invitationId=inv_765a3ed1-c34f-4a2a-a4fc-7df2a85c483d)
+## [Lucid](https://lucid.app/lucidchart/d580539d-fabb-4fbb-bf8e-6cc486119434/edit?invitationId=inv_765a3ed1-c34f-4a2a-a4fc-7df2a85c483d)
 ***
 ### ***Credits***
 ## Info to add
