@@ -16,18 +16,25 @@
 ### **Technologies Used**
 ## 1. React
 ## 2. Postresql/Express
-## 3. Trello
-## 4. Lucid
-<img src="/images/Castles in the Sky.png" alt=""/>
+## 3. Node
 
-## 5. drawio
-<img src="/images/ERD.drawio.png" alt=""/>
+
+
 
 ***
 ### **Planning**
 ## [drawio](https://drive.google.com/file/d/1orRhzvfxNVGH771ph7eNyIG-Punfhbrr/view?usp=sharing)
+<img src="/images/ERD.drawio.png" alt=""/>
+
 ## [Trello](https://trello.com/b/TtYXVxN5/castles)
 ## [Lucid](https://lucid.app/lucidchart/d580539d-fabb-4fbb-bf8e-6cc486119434/edit?invitationId=inv_765a3ed1-c34f-4a2a-a4fc-7df2a85c483d)
+<img src="/images/Castles in the Sky.png" alt=""/>
+
+## [wireFrame](https://wireframe.cc/0USxVi,https://wireframe.cc/gVbQXK,https://wireframe.cc/bTe4M4)
+<img src="/images/login.png" alt=""/>
+<img src="/images/welcome.png" alt=""/>
+<img src="/images/Regions.png" alt=""/>
+
 ***
 ### ***Credits***
 ## Info to add
